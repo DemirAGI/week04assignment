@@ -90,8 +90,6 @@ Responsive Design: CSS Grid, Flexbox, and a media query (768px breakpoint) ensur
 
 Media Query: Adjusts splash page size, font sizes, navigation, and resource grid for smaller screens.
 
-
-
 Accessibility: Alt text for all images and ARIA labels for buttons enhance screen reader compatibility.
 
 
@@ -99,76 +97,15 @@ Accessibility: Alt text for all images and ARIA labels for buttons enhance scree
 Splash Page: Centered, minimum 400px x 400px or 40% of viewport, with a header (“Have you read the 3rd Edition of Gen Matrix report?”), a “Download” button, and an “X” close button.
 
 
+LAYOUT
 
-Stretch Goals:
+SPLASH PAGE as a division
 
+NAVIGATION MENU AT THE TOP
+should have 3 menu items and the logo. Both of these are on either sides of the page.
+to address the accessibility used described the logo with alt
 
-
-
-
-Interactivity: JavaScript enables a splash page close function and a hero section image toggle (AI neural network to SaaS dashboard) with updated alt text and ARIA labels.
-
-
-
-Customer Personas: Two personas (Alex and Carlos) applied to tailor content for tech leaders and business directors.
-
-
-
-Accessibility Enhancements: ARIA labels and high-contrast design improve usability for screen readers.
-
-Challenges
-
-
-
-
-
-Logo Integration: Without access to TowardsAGI_logo.webp, a placeholder was used. In a real project, the custom logo would strengthen brand identity.
-
-
-
-Image Sourcing: Finding free, high-quality AI/SaaS images was challenging; placeholders were used. Licensed stock images would enhance authenticity.
-
-
-
-Balancing Colors: Using multiple secondary colors (#2EA3F2, #006799, etc.) required careful application to avoid visual clutter while maintaining brand coherence.
-
-Why This Landing Page Is Better Than a Splash Page
-
-Unlike a basic splash page, which serves as a brief teaser (e.g., the Week 01 announcement page), this landing page:
-
-
-
-
-
-Drives conversions with a clear CTA (“Download Guide”) tied to the splash page’s “Download” theme.
-
-
-
-Provides detailed content about TowardsAGI’s mission, resources, and value proposition.
-
-
-
-Ensures responsiveness across devices with a media query and flexible layouts.
-
-
-
-Enhances engagement with interactivity (splash page close, image toggle).
-
-
-
-Reinforces branding through consistent colors, fonts, and imagery, creating a professional, cohesive experience.
-
-
-
-Incorporates accessibility features (alt text, ARIA labels) for inclusivity.
-
-
-
-
-Deployment
-
-
-
+GRID
 
 
 GitHub Repository: [Insert your repo link here, e.g., https://github.com/username/towardsagi]
@@ -176,3 +113,5 @@ GitHub Repository: [Insert your repo link here, e.g., https://github.com/usernam
 
 
 Deployed Site: [Insert your deployed link here, e.g., https://username.github.io/towardsagi]
+
+
